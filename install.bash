@@ -22,7 +22,6 @@ flatpak install flathub net.brinkervii.grapejuice
 flatpak install flathub net.davidotek.pupgui2
 flatpak install flathub com.github.tchx84.Flatseal
 flatpak install flathub com.github.unrud.VideoDownloader
-flatpak install flathub com.visualstudio.code
 flatpak install flathub com.discordapp.Discord
 flatpak install flathub com.valvesoftware.Steam
 flatpak install flathub com.vysp3r.RetroPlus
